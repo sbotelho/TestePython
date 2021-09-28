@@ -11,4 +11,5 @@ Importacao.py (realiza a importação, validação, tratamento das colunas)
 # Descompactar o arquivo base_teste
 Descompactar o arquivo base_teste
 
-# A execução da importação levou 20 segundos
+# Tempo de execução
+A execução da importação durou 20 segundos
